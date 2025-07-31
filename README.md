@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <a href="https://github.com/sidar-yesilyurt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidar-yesilyurt&show_icons=true&theme=radical&custom_title=Sidar%27s%20GitHub%20Stats" alt="Sidar's GitHub stats"/>
@@ -17,7 +17,7 @@
 </a>
 
 ---
-
+<!-- 
 ## 📌 Featured Projects
 
 <a href="https://github.com/sidar-yesilyurt/github-readme-stats-clone">
@@ -27,7 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidar-yesilyurt&repo=my-cybersec-tools&theme=radical" />
 </a>
 
----
+-->
+
 
 ## ⚙️ Tools & Technologies
 
