@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sidar Yesilyurt
 
-🎓 Computer Science with Cyber Security Student  
-💻 Passionate about full-stack development, ethical hacking, and automation  
-🌍 Based in UK
+🎓 Computer Science with CyberSec Student in London, England
+💻 Passionate about coding and solving complex problems through software development
 
 ---
 
